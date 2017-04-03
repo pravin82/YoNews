@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">YoNews</string>
+    <string name="no_news">NO News found</string>
+    <string name="no_internet_connection">No internet connection.</string>
+    <string name="Financial_News">Financial News</string>
+    <string name="TECH_News">TECH News</string>
+
+</resources>
